@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="spyderhash-banner.png" alt="SpyderHash — Python-Based Hash Format Identification & Analysis Tool" width="100%">
+</p>
 
 # 🔐 SpyderHash
 
@@ -221,6 +224,7 @@ SpyderHash/
 │       └── tests.yml
 │
 ├── README.md
+├── spyderhash-banner.png
 ├── TEST_REPORT.md
 ├── CHANGELOG.md
 ├── SECURITY.md
