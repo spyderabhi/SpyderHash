@@ -1,0 +1,5 @@
+# Synthetic demonstration samples; no real credentials or accounts.
+5f4dcc3b5aa765d61d8327deb882cf99
+a9993e364706816aba3e25717850c26c9cd0d89d
+$argon2id$v=19$m=65536,t=3,p=4$c2FsdA$aGFzaA
+pbkdf2_sha256$720000$NaCl$YWJjZA==
